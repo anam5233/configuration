@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+.bs{
+	width:750px;
+	text-align: center;
+	margin:0px auto;
+	margin-top: 150px;
+	padding: 100px;
+	background: #eee;
+}
+
+.bs span{
+	margin:10px;
+}
